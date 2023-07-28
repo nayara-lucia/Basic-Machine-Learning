@@ -58,3 +58,6 @@ O modelo que melhor apresentou resultado entre o Árvore e KNN, foi o Árvore re
 
 ![image](https://github.com/nayara-lucia/python-IA/assets/126920974/7b5fc438-4b24-4eee-ba87-67c8c9629bd4)
 
+### Resultados ✅
+
+![image](https://github.com/nayara-lucia/python-IA/assets/126920974/856cd3d5-f761-4029-a934-3b44e6e839f3)
