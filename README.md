@@ -18,7 +18,7 @@ Fui contratada por um banco para conseguir definir o score de crédito dos clien
 <hr>
 
 ### Etapas 🔛
-0 - Entender o desafio da empresa
+🚨 <b> Entender o desafio da empresa </b> 🚨
 
 1 - Importar a base de dados
 
